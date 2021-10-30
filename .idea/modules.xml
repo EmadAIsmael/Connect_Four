@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_Four.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" />
+    </modules>
+  </component>
+</project>
